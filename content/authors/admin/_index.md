@@ -47,4 +47,4 @@ highlight_name: false
 ---
 Steven Nijman is a PhD candidate currently working at the Julius Centrum in Utrecht. The research subject of his dissertation is the handling of missing data in the electronic patient records, which allows for the use of prediction models in direct clinical practice.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-steven-nijman.pdf" "newtab" >}}resumé{{< /staticref >}}.
