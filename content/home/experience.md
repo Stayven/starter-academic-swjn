@@ -33,7 +33,7 @@ experience:
         
         * Research
         * Teaching
-        * Deploying
+        * Writing
         
   - title: Data scientist
     company: University of Amsterdam
@@ -42,12 +42,6 @@ experience:
     date_start: '2018-08-10'
     date_end: '2018-09-10'
     description: Worked as the initial analyst for the WATCHMAKER project. Involved a combination of KNMI and ICU data, attempting to find correlations and     relationships.
-    |2-
-        Work included:
-        
-        * Factor analysis
-        * Regression
-        * Multivariate analysis
     
     
   - title: Data Science internship
@@ -57,10 +51,4 @@ experience:
     date_start: '2017-11-01'
     date_end: '2018-08-10'
     description: A data science internship aimed at analyzing how and why elderly patients, by looking at activity tracker data, psychological questionnaires and physical tests, have hospital associated disability (HAD) after being acutely hospitalized.
-       |2-
-        Work included:
-        
-        * Statistical learning
-        * R programming
-        * PCA
 ---
