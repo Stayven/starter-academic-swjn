@@ -17,22 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 75%
-  icon: ceur
-  icon_pack: ai
+  icon: code
+  icon_pack: fas
   name: R programming
 - description: 80%
-  icon: edit
+  icon: laptop
   icon_pack: fas
   name: Science
 - description: 80%
-  icon: camera-retro
+  icon: edit
   icon_pack: fas
   name: Writing
-- description: 80%
-  icon: camera-retro
-  icon_pack: ai
-  name: Writing
-
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
