@@ -22,24 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Candidate
+    company: UMC Utrecht
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Netherlands
+    date_start: '2018-10-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
+        * Research
+        * Teaching
         * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Data scientist
+    company: University of Amsterdam
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Amsterdam
+    date_start: '2018-08-10'
+    date_end: '2018-09-10'
+    description: Worked as the initial analyst for the WATCHMAKER project. Involved a combination of KNMI and ICU data, attempting to find correlations and     relationships.
+    |2-
+        Work included:
+        
+        * Factor analysis
+        * Regression
+        * Multivariate analysis
+    
+    
+  - title: Data Science internship
+    company: University of Amsterdam
+    company_url: ''
+    location: Amsterdam
+    date_start: '2017-11-01'
+    date_end: '2018-08-10'
+    description: A data science internship aimed at analyzing how and why elderly patients, by looking at activity tracker data, psychological questionnaires and physical tests, have hospital associated disability (HAD) after being acutely hospitalized.
+       |2-
+        Work included:
+        
+        * Statistical learning
+        * R programming
+        * PCA
 ---
