@@ -28,12 +28,7 @@ experience:
     location: Netherlands
     date_start: '2018-10-15'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Research
-        * Teaching
-        * Writing
+    description: On the handling of missing data in 'live' clinical practice.
         
   - title: Data scientist
     company: University of Amsterdam
@@ -41,7 +36,7 @@ experience:
     location: Amsterdam
     date_start: '2018-08-10'
     date_end: '2018-09-10'
-    description: Worked as the initial analyst for the WATCHMAKER project. Involved a combination of KNMI and ICU data, attempting to find correlations and     relationships.
+    description: Worked as the initial analyst for the WATCHMAKER project. Involved a combination of KNMI and ICU data.
     
     
   - title: Data Science internship
