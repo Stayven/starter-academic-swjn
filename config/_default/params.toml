@@ -89,16 +89,15 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "S.W.J.Nijman@umcutrecht.nl"
-phone = "+31 88 75 680 12"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Kamernummer 6.118", city = "Universitair Medisch Centrum Utrecht", region = "NL", postcode = "3508 GA", country = "The Netherlands", country_code = "NL"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/SWJNijman"},
+  {icon = "twitter", icon_pack = "fab", name = "Message Me", link = "https://twitter.com/SWJNijman"},
   ]
 
 ############################
